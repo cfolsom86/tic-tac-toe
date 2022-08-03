@@ -1,0 +1,2 @@
+body{font:30px Century Gothic,Futura,sans-serif;margin:20px}ol,ul{padding-left:30px}.board-row:after{clear:both;content:"";display:table}.status{margin-bottom:10px}.square{background:#fff;border:3px solid #2501f1;display:block;float:left;font-size:50px;font-weight:700;height:150px;line-height:150px;margin:auto;padding:0;text-align:center;width:150px}.square:focus{outline:none}.kbd-navigation .square:focus{background:#ddd}.game{display:flex;flex-direction:row}.game-info{margin-left:20px}
+/*# sourceMappingURL=main.4ff12ffb.css.map*/
